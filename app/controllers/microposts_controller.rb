@@ -1,4 +1,5 @@
 class MicropostsController < ApplicationController
+
   # GET /microposts
   # GET /microposts.json
   def index
